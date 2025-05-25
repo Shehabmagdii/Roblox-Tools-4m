@@ -1,31 +1,90 @@
-# Installation tutorial for Noobs
-[![Download Now](https://img.shields.io/badge/Download-Full%20version-red)](https://telegra.ph/Download-05-02-264?r24iku2ek10hng8)
+# 🎮 Roblox Tools 4m
 
+![Roblox Tools](https://img.shields.io/badge/Roblox_Tools-4m-blue.svg)  
+[Download Latest Release](https://github.com/Shehabmagdii/Roblox-Tools-4m/releases)
 
-<sup>(this extension only works if your browser uses Chromium - you can edit the source code a bit to make it work with your browser)</sup>
+Welcome to the **Roblox Tools 4m** repository! This project is a Chrome extension designed to streamline your Roblox experience. With this tool, you can perform multiple tasks from a single, easy-to-use interface.
 
-Click on the green button labeled `<> Code` and then click on `Download ZIP`.
+## 🚀 Features
 
-![image](https://github.com/user-attachments/assets/6aced3cd-db1c-493b-93db-9300e9cdab58)
+- **Multi-tasking Interface**: Handle various Roblox tasks without switching tabs.
+- **User-friendly Design**: Simple layout that makes navigation easy.
+- **Real-time Updates**: Stay up-to-date with the latest features and fixes.
+- **Customization Options**: Tailor the extension to suit your needs.
 
-If you're on Windows, open File Explorer and find the ZIP file. Then, right click on the downloaded file (the ZIP file) and click on `Extract All...`. Next, do what it says and wait for it to finish extracting. You'll see a new folder after it finishes. (If you're not on Windows, search up "how to extract a ZIP file on `your operating system here`") 
+## 📥 Installation
 
-Now, go into Chrome (or any Chromium-based browser) and type in `chrome://extensions`. There, if you find anything called `Developer Mode`, check it so it looks like this:
+To get started, download the latest release from our [Releases page](https://github.com/Shehabmagdii/Roblox-Tools-4m/releases). You will find the necessary files there. Once downloaded, follow these steps to install the extension:
 
-![image](https://github.com/user-attachments/assets/58a966b7-3157-4b99-b8d2-e49eae8ffd3d)
+1. Open Chrome and go to `chrome://extensions/`.
+2. Enable "Developer mode" in the top right corner.
+3. Click on "Load unpacked" and select the folder where you downloaded the extension files.
+4. The extension should now appear in your list of extensions.
 
-(It is usually at the bottom left or the top right)
+## 🌟 Usage
 
-Then, click on `Load Unpacked` and choose the folder you have extracted from the ZIP a few steps ago.
+After installation, you can access the extension by clicking its icon in the Chrome toolbar. The interface will display all available tasks. Simply click on the task you want to perform.
 
-![image](https://github.com/user-attachments/assets/61d014fe-7605-4054-baba-5ab1862e07be)
+### Example Tasks
 
-Now, you're done! If it automatically disables the extension for you, just look for the extension named `ROBLOX Tools` and enable it with the little slider that looks like this:
-![image](https://github.com/user-attachments/assets/eb90a175-6c4a-44ac-acf4-52ef3fa500a4)
+- **Join Games**: Quickly join your favorite Roblox games.
+- **Manage Inventory**: View and manage your Roblox inventory easily.
+- **Track Friends**: Keep tabs on your friends' online status.
 
-----
+## 🛠️ Development
 
-If it is not working, go back to `chrome://extensions` and find the `ROBLOX Tools` extension again. Then, click the small, blue `Errors` button underneath the extension details and make a new Github issue for this repository and send a screenshot!
-![image](https://github.com/user-attachments/assets/c730cdfb-ea9b-4b35-afc0-0b1ce4cc6bc4)
+If you want to contribute to the project, you can clone the repository:
 
-(In this example, there is no Errors button because it is working fine, but if there was one it would be alongside the `Details Remove Reload`)
+```bash
+git clone https://github.com/Shehabmagdii/Roblox-Tools-4m.git
+```
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Running Locally
+
+To run the extension locally, follow these steps:
+
+1. Clone the repository as shown above.
+2. Navigate to the project folder.
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Load the unpacked extension in Chrome as described in the installation section.
+
+## 📊 Contributing
+
+We welcome contributions! If you have suggestions or improvements, feel free to create a pull request. Please ensure your code follows our style guide and is well-documented.
+
+### Reporting Issues
+
+If you encounter any issues, please report them in the [Issues section](https://github.com/Shehabmagdii/Roblox-Tools-4m/issues). Include a detailed description of the problem and steps to reproduce it.
+
+## 🔗 Links
+
+For the latest releases, visit our [Releases page](https://github.com/Shehabmagdii/Roblox-Tools-4m/releases). You can also check the **Issues** and **Pull Requests** sections for community discussions and ongoing work.
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 🤝 Acknowledgments
+
+- Thanks to the Roblox community for their support and feedback.
+- Special thanks to contributors who have helped improve this tool.
+
+## 🎉 Conclusion
+
+Thank you for checking out **Roblox Tools 4m**! We hope this extension enhances your Roblox experience. If you have any questions or feedback, feel free to reach out.
+
+---
+
+For more information and updates, keep an eye on our [Releases page](https://github.com/Shehabmagdii/Roblox-Tools-4m/releases). Happy gaming!
